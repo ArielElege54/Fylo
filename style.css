@@ -10,6 +10,7 @@ body {
 	box-sizing: border-box;
 	font-size: 14px;
 	overflow-x: hidden;
+	font-weight: normal;
 }
 p {
 	font-size: 0.8rem;
@@ -68,6 +69,7 @@ main {
 	max-width: 30ch;
 	margin: 1rem 2rem;
 	font-size: 1.5rem;
+	font-family: 'Raleway', sans-serif;
 }
 .hero-text {
 	max-width: 40ch;
@@ -98,6 +100,7 @@ main {
 }
 .service-header {
 	margin: 0.5rem 2rem;
+	font-family: 'Raleway', sans-serif;
 }
 .service-text {
 	text-align: center;
@@ -115,6 +118,7 @@ main {
 .subservice-header {
 	font-size: 1.1rem;
 	margin-right: 3rem;
+	font-family: 'Raleway', sans-serif;
 }
 .subservice-text {
 	min-width: 30ch;
@@ -191,6 +195,7 @@ main {
 }
 .signup-header {
 	text-align: center;
+	font-family: 'Raleway', sans-serif;
 }
 .signup-text {
 	text-align: center;
@@ -394,6 +399,7 @@ main {
 }
 button {
 	transition: transform 0.5s;
+	cursor: pointer;
 }
 button:hover {
 	transform: rotateY(25deg);
