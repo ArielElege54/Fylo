@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ArielElege54/Fylo)
+- Live Site URL: [Add live site URL here](https://fyloarielelege.netlify.app/)
 
 ## My process
 
@@ -75,5 +75,5 @@ Documentation, CSS Tricks and W3schools are also helpful 😁
 
 ## Author
 
-- Website - [Ariel Elege](https://www.voidmedia.netlify.app)
+- Website - [Ariel Elege](https://voidmedia.netlify.app)
 - Frontend Mentor - [@ArielElege54](https://www.frontendmentor.io/profile/ArielElege54)
