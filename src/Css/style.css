@@ -152,7 +152,7 @@ main {
   position: absolute;
   height: 8rem;
   width: 100%;
-  top: -15rem;
+  top: -15.1rem;
   left: 0;
   right: 0;
   z-index: 0;
@@ -616,6 +616,7 @@ main {
   .location {
     margin-bottom: 0;
     margin-left: 0.8rem;
+    grid-column-gap: 1.5rem;
     -webkit-column-gap: 1.5rem;
             column-gap: 1.5rem;
     -ms-grid-columns: 1rem 5fr;
