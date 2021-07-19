@@ -75,5 +75,5 @@ Documentation, CSS Tricks and W3schools are also helpful 😁
 
 ## Author
 
-- Website - [Ariel Elege](https://voidmedia.netlify.app)
+- Website - [Ariel Elege](https://arielelege.netlify.app)
 - Frontend Mentor - [@ArielElege54](https://www.frontendmentor.io/profile/ArielElege54)
