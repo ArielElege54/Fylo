@@ -100,12 +100,12 @@ main {
 }
 .wave {
 	color: hsl(218, 28%, 13%);
-	transform: rotate(180deg) scale(1.3);
+	transform: rotate(180deg);
 	position: absolute;
 	height: 8rem;
 	width: 100%;
 	// top: -20.4%;
-	top: -15.1rem;
+	top: -14rem;
 	left: 0;
 	right: 0;
 	z-index: 0;
